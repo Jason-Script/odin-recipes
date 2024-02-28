@@ -1,0 +1,1 @@
+The goal of this project is to build a basic recipe website. My goal is to solidify my knowledge of the HTML basics that I have learned so far.
